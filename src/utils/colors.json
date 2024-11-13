@@ -1,0 +1,123 @@
+{
+  "0": {
+    "labelText": "Purple",
+    "valueData": "purple",
+    "bkgData": "bg-[rgb(138,0,196)!important]",
+    "effectData": "text-[rgb(138_0_196)] drop-shadow-[0_0px_5px_rgba(138,0,196,0.9)] transition-all duration-500"
+
+  },
+  "1": {
+    "labelText": "Blue",
+    "valueData": "blue",
+    "bkgData": "bg-[rgb(35,5,255)!important]",
+    "effectData": "text-[rgb(35_35_255)] drop-shadow-[0_0px_5px_rgba(35,35,255,0.9)] transition-all duration-500"
+  },
+  "2": {
+    "labelText": "Green",
+    "valueData": "green",
+    "bkgData": "bg-[rgb(44,255,5)!important]",
+    "effectData": "text-[rgb(44_255_5)] drop-shadow-[0_0px_5px_rgba(44,255,5,0.9)] transition-all duration-500"
+  },
+  "3": {
+    "labelText": "Yellow",
+    "valueData": "yellow",
+    "bkgData": "bg-[rgb(255,255,0)!important]",
+    "effectData": "text-[rgb(255_255_0)] drop-shadow-[0_0px_5px_rgba(255,255,0,0.9)] transition-all duration-500"
+  },
+  "4": {
+    "labelText": "Red",
+    "valueData": "red",
+    "bkgData": "bg-[rgb(255,0,0)!important]",
+    "effectData": "text-[rgb(255_0_0)] drop-shadow-[0_0px_5px_rgba(255,0,0,0.9)] transition-all duration-500"
+  },
+  "5": {
+    "labelText": "Pink",
+    "valueData": "pink",
+    "bkgData": "bg-[rgb(255,19,240)!important]",
+    "effectData": "text-[rgb(255_19_240)] drop-shadow-[0_0px_5px_rgba(255,19,240,0.9)] transition-all duration-500"
+  },
+  "6": {
+    "labelText": "Orange",
+    "valueData": "orange",
+    "bkgData": "bg-[rgb(255,128,0)!important]",
+    "effectData": "text-[rgb(255_128_0)] drop-shadow-[0_0px_5px_rgba(255,128,0,0.9)] transition-all duration-500"
+  },
+  "7": {
+    "labelText": "Aqua",
+    "valueData": "aqua",
+    "bkgData": "bg-[rgb(0,255,240)!important]",
+    "effectData": "text-[rgb(0_255_240)] drop-shadow-[0_0px_5px_rgba(0,255,240,0.9)] transition-all duration-500"
+  },
+  "8": {
+    "labelText": "Mint",
+    "valueData": "mint",
+    "bkgData": "bg-[rgb(152,251,203)!important]",
+    "effectData": "text-[rgb(152_251_203)] drop-shadow-[0_0px_5px_rgba(152,251,203,0.9)] transition-all duration-500"
+  },
+  "9": {
+    "labelText": "Chartreuse",
+    "valueData": "chartreuse",
+    "bkgData": "bg-[rgb(204,255,0)!important]",
+    "effectData": "text-[rgb(204_255_0)] drop-shadow-[0_0px_5px_rgba(204,255,0,0.9)] transition-all duration-500"
+  },
+  "10": {
+    "labelText": "Cream",
+    "valueData": "cream",
+    "bkgData": "bg-[rgb(253,251,212)!important]",
+    "effectData": "text-[rgb(253_251_212)] drop-shadow-[0_0px_5px_rgba(253,251,212,0.9)] transition-all duration-500"
+  },
+  "11": {
+    "labelText": "Platinum",
+    "valueData": "platinum",
+    "bkgData": "bg-[rgb(217,217,217)!important]",
+    "effectData": "text-[rgb(217_217_217)] drop-shadow-[0_0px_5px_rgba(217,217,217,0.9)] transition-all duration-500"
+  },
+  "12": {
+    "labelText": "Cinnabar",
+    "valueData": "cinnabar",
+    "bkgData": "bg-[rgb(232,75,61)!important]",
+    "effectData": "text-[rgb(232_75_61)] drop-shadow-[0_0px_5px_rgba(232,75,61,0.9)] transition-all duration-500"
+  },
+  "13": {
+    "labelText": "Periwinkle",
+    "valueData": "periwinkle",
+    "bkgData": "bg-[rgb(204,204,255)!important]",
+    "effectData": "text-[rgb(204_204_255)] drop-shadow-[0_0px_5px_rgba(204,204,255,0.9)] transition-all duration-500"
+  },
+  "14": {
+    "labelText": "Teal",
+    "valueData": "teal",
+    "bkgData": "bg-[rgb(6,148,148)!important]",
+    "effectData": "text-[rgb(6_148_148)] drop-shadow-[0_0px_5px_rgba(6,148,148,0.9)] transition-all duration-500"
+  },
+  "15": {
+    "labelText": "Gold",
+    "valueData": "gold",
+    "bkgData": "bg-[rgb(239,191,4)!important]",
+    "effectData": "text-[rgb(239_191_4)] drop-shadow-[0_0px_5px_rgba(239,191,4,0.9)] transition-all duration-500"
+  },
+  "16": {
+    "labelText": "Copper",
+    "valueData": "copper",
+    "bkgData": "bg-[rgb(198,131,70)!important]",
+    "effectData": "text-[rgb(198_131_70)] drop-shadow-[0_0px_5px_rgba(198,131,70,0.9)] transition-all duration-500"
+  },
+  "17": {
+    "labelText": "Rose",
+    "valueData": "rose",
+    "bkgData": "bg-[rgb(255,29,141)!important]",
+    "effectData": "text-[rgb(255_29_141)] drop-shadow-[0_0px_5px_rgba(255,29,141,0.9)] transition-all duration-500"
+  },
+  "18": {
+    "labelText": "Jade",
+    "valueData": "jade",
+    "bkgData": "bg-[rgb(0,187,119)!important]",
+    "effectData": "text-[rgb(0_187_119)] drop-shadow-[0_0px_5px_rgba(0,187,119,0.9)] transition-all duration-500"
+  },
+  "19": {
+    "labelText": "White",
+    "valueData": "white",
+    "bkgData": "bg-[rgb(255,255,255)!important]",
+    "effectData": "text-[rgb(255_255_255)] drop-shadow-[0_0px_5px_rgba(255,255,255,0.9)] transition-all duration-500"
+  }
+}

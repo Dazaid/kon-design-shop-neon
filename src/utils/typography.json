@@ -1,0 +1,122 @@
+{
+  "0": {
+    "labelText": "Neon 80s",
+    "valueData": "neon 80s",
+    "bkgData": "Aa",
+    "effectData": "font-neon80s"
+  },
+  "1": {
+    "labelText": "Candy",
+    "valueData": "candy",
+    "bkgData": "Aa",
+    "effectData": "font-candy"
+  },
+  "2": {
+    "labelText": "Genuine",
+    "valueData": "genuine",
+    "bkgData": "Aa",
+    "effectData": "font-genuine"
+  },
+  "3": {
+    "labelText": "Goldie",
+    "valueData": "goldie",
+    "bkgData": "Aa",
+    "effectData": "font-goldie text-[5rem]"
+  },
+  "4": {
+    "labelText": "Barbeque",
+    "valueData": "barbeque",
+    "bkgData": "Aa",
+    "effectData": "font-barbeque"
+  },
+  "5": {
+    "labelText": "Retromic",
+    "valueData": "retromic",
+    "bkgData": "Aa",
+    "effectData": "font-retromic"
+  },
+  "6": {
+    "labelText": "Neoncity",
+    "valueData": "neoncity",
+    "bkgData": "Aa",
+    "effectData": "font-neoncity"
+  },
+  "7": {
+    "labelText": "NeonTubes",
+    "valueData": "neon-tubes",
+    "bkgData": "Aa",
+    "effectData": "font-neontubes"
+  },
+  "8": {
+    "labelText": "Neon Lights",
+    "valueData": "neon lights",
+    "bkgData": "Aa",
+    "effectData": "font-neonlights"
+  },
+  "9": {
+    "labelText": "Streamster",
+    "valueData": "streamster",
+    "bkgData": "Aa",
+    "effectData": "font-streamster"
+  },
+  "10": {
+    "labelText": "Exo2",
+    "valueData": "exo2",
+    "bkgData": "Aa",
+    "effectData": "font-exo2"
+  },
+  "11": {
+    "labelText": "AstronBoy",
+    "valueData": "astron-boy",
+    "bkgData": "Aa",
+    "effectData": "font-astronboy"
+  },
+  "12": {
+    "labelText": "Raleway",
+    "valueData": "raleway-regular",
+    "bkgData": "Aa",
+    "effectData": "font-raleway"
+  },
+  "13": {
+    "labelText": "Gothic",
+    "valueData": "highway-gothic",
+    "bkgData": "Aa",
+    "effectData": "font-hwygoth"
+  },
+  "14": {
+    "labelText": "Monotone",
+    "valueData": "monotone",
+    "bkgData": "Aa",
+    "effectData": "font-monotone text-[5rem]"
+  },
+  "15": {
+    "labelText": "Lazer 84",
+    "valueData": "lazer84",
+    "bkgData": "Aa",
+    "effectData": "font-lazer84"
+  },
+  "16": {
+    "labelText": "Elektora",
+    "valueData": "elektora",
+    "bkgData": "Aa",
+    "effectData": "font-elektora"
+  },
+  "17": {
+    "labelText": "TiltNeon",
+    "valueData": "tilt-neon",
+    "bkgData": "Aa",
+    "effectData": "font-tiltneon"
+  },
+  "18": {
+    "labelText": "Hastron",
+    "valueData": "hastron",
+    "bkgData": "Aa",
+    "effectData": "font-hastron"
+  },
+  "19": {
+    "labelText": "Vintage",
+    "valueData": "vintage",
+    "bkgData": "Aa",
+    "effectData": "font-vintage"
+  }
+}

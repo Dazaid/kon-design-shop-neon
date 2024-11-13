@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+body {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.svgblur-1, .svgblur-2, .svgblur-3 {
+  filter: blur(10px);
+  stroke: #83337d;
+}
+
+.svgblur2-1, .svgblur2-2, .svgblur2-3 {
+  filter: blur(30px);
+  stroke: #83337d;
+}
+
+.svg-elem-1, .svg-elem-2, .svg-elem-3 {
+  filter: drop-shadow(0px 0px 20px rgba(131, 51, 125, 1));
+  stroke: #dfafdb; /* Color del trazo */
+  stroke-width: 10; /* Grosor del trazo aumentado */
+  fill: none;
+  stroke-dasharray: 1000; /* Largo inicial de los trazos */
+  stroke-dashoffset: 1000; /* Largo del trazo oculto */
+  animation: draw 3s ease forwards infinite alternate; /* Animación infinita en loop */
+}
+
+/* Desfase en el inicio de cada elemento para que se dibujen uno tras otro */
+.svg-elem-2 {
+  animation-delay: 0.5s;
+}
+.svg-elem-3 {
+  animation-delay: 1s;
+}
+
+/* Definir la animación del trazo */
+@keyframes draw {
+  to {
+      stroke-dashoffset: 0; /* Termina en 0 para completar el trazo */
+  }
+}
+
+/*  Fonts  */
+
+@font-face {
+  font-family: 'Neon80s';
+  src: url('/fonts/Neon80s.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Candy';
+  src: url('/fonts/Candy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Genuine';
+  src: url('/fonts/Genuine.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Goldie';
+  src: url('/fonts/Goldie.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Barbeque';
+  src: url('/fonts/Barbeque.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Retromic';
+  src: url('/fonts/Retromic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neoncity';
+  src: url('/fonts/Neoncity.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neon Tubes';
+  src: url('/fonts/neon-tubes.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neon Lights';
+  src: url('/fonts/neon-lights.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Streamster';
+  src: url('/fonts/Streamster.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Exo 2';
+  src: url('/fonts/Exo2-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Astron Boy';
+  src: url('/fonts/Astron Boy.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/Raleway-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HWYGOTH';
+  src: url('/fonts/HWYGOTH.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monotone';
+  src: url('/fonts/Monotone.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lazer84';
+  src: url('/fonts/Lazer84.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ELEKTORA';
+  src: url('/fonts/ELEKTORA.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tilt Neon';
+  src: url('/fonts/TiltNeon-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hastron';
+  src: url('/fonts/Hastron.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vintage';
+  src: url('/fonts/Vintage.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
