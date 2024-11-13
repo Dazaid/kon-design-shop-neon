@@ -1,0 +1,31 @@
+name: Deploy to GitHub Pages
+
+# Configuración de permisos necesarios
+permissions:
+  id-token: write
+  contents: read
+
+# Dispara el flujo de trabajo cuando haya un push en la rama principal
+on:
+  push:
+    branches:
+      - main  # Cambia "main" si tu rama principal tiene otro nombre
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the project
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          folder: dist  # Asegúrate de que "dist" sea la carpeta donde se genera el build
